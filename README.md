@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadywalied) 
   [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/2965ed20775adfa555e72fbcee309df5) 
@@ -26,7 +26,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ## :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="cmake" width="40" height="40"/>&nbsp;
