@@ -67,7 +67,9 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadywalied)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-### :writing_hand: Blog Posts :
+
+## :writing_hand: Blog Posts :
+
 Coming Soon ⏲️
 
 <!-- BLOG-POST-LIST:START -->
