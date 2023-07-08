@@ -70,8 +70,6 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ## :writing_hand: Blog Posts :
 
-Coming Soon ⏲️
-
 <!-- BLOG-POST-LIST:START -->
 - [Coming Soon Enough](https://dev.to/hadywalied/coming-soon-enough-41d8)
 <!-- BLOG-POST-LIST:END -->
