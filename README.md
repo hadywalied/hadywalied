@@ -60,10 +60,13 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hadywalied&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="badges" align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hadywalied&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadywalied)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadywalied)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 ### :writing_hand: Blog Posts :
 Coming Soon ⏲️
 
