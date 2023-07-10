@@ -12,7 +12,7 @@
 </div>
 
 <h1>
-  Hawdy y'all, I'm Hady!
+  howdy y'all, I'm Hady!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
