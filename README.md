@@ -3,12 +3,16 @@
 </div>
 <div id="badges" align="center">
   
+
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadywalied) 
   [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/2965ed20775adfa555e72fbcee309df5) 
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadywalied) 
   [![pluralsight](https://img.shields.io/badge/pluralsight-fa4?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/hady-walied) 
   
   [![CodeWars](https://www.codewars.com/users/hadywalied/badges/large?theme=light)](https://www.codewars.com/users/hadywalied)
+
+  [![hadywalied](https://komarev.com/ghpvc/?username=hadywalied)](https://komarev.com/ghpvc/?username=hadywalied)
+
 </div>
 
 <h1>
