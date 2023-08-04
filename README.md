@@ -75,6 +75,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t Break a Window, Break a Leg.](https://dev.to/hadywalied/dont-break-a-window-break-a-leg-4flk)
 - [What is a Domain Specific Language &lpar;DSL&rpar;?](https://dev.to/hadywalied/what-is-a-domain-specific-language-dsl-13i)
 - [Coming Soon Enough](https://dev.to/hadywalied/coming-soon-enough-41d8)
 <!-- BLOG-POST-LIST:END -->
