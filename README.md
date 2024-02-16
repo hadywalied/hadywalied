@@ -68,7 +68,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=hadywalied&theme=monokai&hide_border=true&border_radius=7.5&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied))
   
 </div>
 
