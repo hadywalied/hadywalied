@@ -21,12 +21,12 @@
 </h1>
 
 
-## 🚀 About Me
-I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , at the core, and a JVM Enthusiast, yet I'm fond of  Electronics Design Automation (EDA), Machine Learning, AI Knowledge Transfer, and Full-Stack Deep Learning Development (MLOps)...
+## 🚀 About Me 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> At my professional core lies a solid foundation in Software Engineering, complemented by a passion for JVM technology. I'm also dedicated to multiple areas that overlap the boundaries of hardware and artificial intelligence: Electronics Design Automation (EDA), AI-driven Knowledge Transfer, comprehensive Full-Stack Deep Learning Development, as well as implementing effective Machine Learning Operations (MLOps) pipelines.
 
 👩‍💻 I'm currently working on [The Analog Designers' Toolbox](https://adt.master-micro.com/)...
 
-🧠 I'm currently learning microservices with Micronaut and K8s...
+🧠 I'm currently learning microservices architecture and Domain Driven Design (DDD).
 
 ## :hammer_and_wrench: Languages and Tools :
 
