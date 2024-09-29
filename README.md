@@ -1,32 +1,32 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  
-
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadywalied) 
-  [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/2965ed20775adfa555e72fbcee309df5) 
-  [![Dev.to](https://img.shields.io/badge/Dev.to-FFF?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/hadywalied) 
-  [![pluralsight](https://img.shields.io/badge/pluralsight-fa4?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/hady-walied) 
-  
-  [![CodeWars](https://www.codewars.com/users/hadywalied/badges/large?theme=light)](https://www.codewars.com/users/hadywalied)
-
-  [![hadywalied](https://komarev.com/ghpvc/?username=hadywalied)](https://komarev.com/ghpvc/?username=hadywalied)
-
-</div>
-
 <h1>
-  howdy y'all, I'm Hady!
+  Howdy y'all, I'm Hady!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 ## 🚀 About Me 
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> At my professional core lies a solid foundation in Software Engineering, complemented by a passion for JVM technology. I'm also dedicated to multiple areas that overlap the boundaries of hardware and artificial intelligence: Electronics Design Automation (EDA), AI-driven Knowledge Transfer, comprehensive Full-Stack Deep Learning Development, as well as implementing effective Machine Learning Operations (MLOps) pipelines.
 
 👩‍💻 I'm currently working on [The Analog Designers' Toolbox](https://adt.master-micro.com/)...
 
 🧠 I'm currently learning microservices architecture and Domain Driven Design (DDD).
+
+<div id="badges" align="center">
+  
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadywalied) 
+  [![coursera](https://img.shields.io/badge/Coursera-000?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/2965ed20775adfa555e72fbcee309df5) 
+  [![Dev.to](https://img.shields.io/badge/Dev.to-FFF?style=for-the-badge&logo=dev.to&logoColor=black)](https://dev.to/hadywalied) 
+  [![pluralsight](https://img.shields.io/badge/pluralsight-fa4?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/hady-walied) 
+  
+  
+  [![CodeWars](https://www.codewars.com/users/hadywalied/badges/large?theme=light)](https://www.codewars.com/users/hadywalied)
+
+
+  [![hadywalied](https://komarev.com/ghpvc/?username=hadywalied)](https://komarev.com/ghpvc/?username=hadywalied)
+
+
+</div>
+
 
 ## :hammer_and_wrench: Languages and Tools :
 
