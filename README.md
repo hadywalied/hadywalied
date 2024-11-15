@@ -77,6 +77,6 @@
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Zakker: Bringing Islamic Remembrance to Your IDE](https://dev.to/hadywalied/introducing-zakker-bringing-islamic-remembrance-to-your-ide-2nkp)
 - [Don&#39;t Break a Window, Break a Leg.](https://dev.to/hadywalied/dont-break-a-window-break-a-leg-4flk)
-- [What is a Domain Specific Language &lpar;DSL&rpar;?](https://dev.to/hadywalied/what-is-a-domain-specific-language-dsl-13i)
 <!-- BLOG-POST-LIST:END -->
