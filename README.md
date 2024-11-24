@@ -77,6 +77,6 @@
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Zakker for Visual Studio Code](https://dev.to/hadywalied/announcing-zakker-for-visual-studio-code-25g2)
 - [Introducing Zakker: Bringing Islamic Remembrance to Your IDE](https://dev.to/hadywalied/introducing-zakker-bringing-islamic-remembrance-to-your-ide-2nkp)
-- [Don&#39;t Break a Window, Break a Leg.](https://dev.to/hadywalied/dont-break-a-window-break-a-leg-4flk)
 <!-- BLOG-POST-LIST:END -->
