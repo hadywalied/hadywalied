@@ -5,7 +5,7 @@
 
 ## 🚀 About Me 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> At my professional core lies a solid foundation in Software Engineering, complemented by a passion for JVM technology. I'm also dedicated to multiple areas that overlap the boundaries of hardware and artificial intelligence: Electronics Design Automation (EDA), AI-driven Knowledge Transfer, comprehensive Full-Stack Deep Learning Development, as well as implementing effective Machine Learning Operations (MLOps) pipelines.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> At my professional core lies a solid foundation in Software Engineering, complemented by a passion for technology. I'm also dedicated to multiple areas that overlap the boundaries of hardware and artificial intelligence: Electronics Design Automation (EDA), AI-driven Knowledge Transfer, comprehensive Full-Stack Deep Learning Development, as well as implementing effective Machine Learning Operations (MLOps) pipelines.
 
 👩‍💻 I'm currently working on [The Analog Designers' Toolbox](https://adt.master-micro.com/)...
 
