@@ -1,3 +1,6 @@
+[![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
+
+
 <h1>
   Howdy y'all, I'm Hady!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
