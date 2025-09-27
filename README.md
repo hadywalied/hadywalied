@@ -80,6 +80,6 @@
 ## :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Porting micrograd to C++: Step One of Getting My Hands Dirty Again](https://dev.to/hadywalied/porting-micrograd-to-c-step-one-of-getting-my-hands-dirty-again-1c7a)
 - [Announcing Zakker for Visual Studio Code](https://dev.to/hadywalied/announcing-zakker-for-visual-studio-code-25g2)
-- [Introducing Zakker: Bringing Islamic Remembrance to Your IDE](https://dev.to/hadywalied/introducing-zakker-bringing-islamic-remembrance-to-your-ide-2nkp)
 <!-- BLOG-POST-LIST:END -->
