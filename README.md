@@ -1,18 +1,15 @@
 [![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
 
 
-<h1>
-  Howdy y'all, I'm Hady!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# Hady Walied
 
-## 🚀 About Me 
+### **Software Engineer**
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> At my professional core lies a solid foundation in Software Engineering, complemented by a passion for technology. I'm also dedicated to multiple areas that overlap the boundaries of hardware and artificial intelligence: Electronics Design Automation (EDA), AI-driven Knowledge Transfer, comprehensive Full-Stack Deep Learning Development, as well as implementing effective Machine Learning Operations (MLOps) pipelines.
+I build **production-grade intelligent systems** that combine numerical optimization with domain physics, developing models that are both data-efficient and physically consistent. additionally My work spans performance optimization, robust modeling, inference acceleration, and deploying AI solutions in resource-constrained environments.
 
-👩‍💻 I'm currently working on [The Analog Designers' Toolbox](https://adt.master-micro.com/)...
 
-🧠 I'm currently learning microservices architecture and Domain Driven Design (DDD).
+📍 Cairo, Egypt | 📧 [hadywaliedkamel@gmail.com](mailto:hadywaliedkamel@gmail.com)
+
 
 <div id="badges" align="center">
   
@@ -26,47 +23,99 @@
 
 
   [![hadywalied](https://komarev.com/ghpvc/?username=hadywalied)](https://komarev.com/ghpvc/?username=hadywalied)
-
-
 </div>
 
+---
 
-## :hammer_and_wrench: Languages and Tools :
+## 🎯 Featured Work
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="cmake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-plain.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp; 
-  <!img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-</div>
+### [NLP Model Compression Research](https://drive.google.com/file/d/1BmZrDSEMEnyDMIPUmLSBv82FFEDoOjwe/view) • [Code](https://github.com/hadywalied/DistillPegasus)
+**The Problem:** Large transformer models are prohibitively expensive for deployment in production environments with latency and resource constraints.
 
-## :fire: My Stats :
+**The Solution:** End-to-end compression pipeline combining knowledge distillation and quantization. Implemented custom training loop with PyTorch Lightning, integrated W&B for experiment tracking, and built production-ready inference engine.
+
+**Results:** **75% model size reduction** • **3x faster inference** • <2% accuracy loss • Deployed with Qt-based demo application
+
+**Stack:** PyTorch Lightning, Transformers, W&B, Quantization, Model Distillation
+
+---
+
+### [The Analog Designers' Toolbox](https://adt.master-micro.com/)
+**The Problem:** Traditional EDA optimization approaches ignore underlying physical constraints, leading to unrealistic solutions and poor generalization.
+
+**The Solution:** Hybrid optimization system combining  gm/ID methodology-based methods with physics-informed constraints. Built custom computational engine leveraging NumPy/Numba/Sympy for performance-critical operations and integrated semiconductor-specific physical models.
+
+
+**Impact:** **multiple folds reduction in solution iteration time** • Deployed to production serving industrial applications
+
+**Stack:** Python, C++, NumPy, Numba, Optimization Algorithms, AWS
+
+---
+
+### [cGrad](https://github.com/hadywalied/cgrad) - ML Fundamentals from Scratch
+**The Challenge:** Understanding automatic differentiation and backpropagation at the implementation level.
+
+**The Solution:** Lightweight autograd engine and neural network library built in modern C++17—no framework dependencies. Implements core ML primitives: computational graphs, reverse-mode autodiff, gradient descent optimizers, and basic neural network layers.
+
+**Purpose:** Deep dive into ML fundamentals, performance-critical C++ design, and educational resource for learning autodiff mechanics.
+
+**Stack:** Modern C++17, CMake, Template Metaprogramming
+
+---
+
+## :writing_hand: Technical Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Porting micrograd to C++: Step One of Getting My Hands Dirty Again](https://dev.to/hadywalied/porting-micrograd-to-c-step-one-of-getting-my-hands-dirty-again-1c7a)
+- [Announcing Zakker for Visual Studio Code](https://dev.to/hadywalied/announcing-zakker-for-visual-studio-code-25g2)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🛠️ Technical Stack
+
+**ML/AI Core:** PyTorch (Lightning) • TensorFlow • scikit-learn • Model Compression • Knowledge Distillation  
+**Performance Engineering:** C++ • Rust • Python optimization • Numba • CUDA basics • Memory profiling  
+**MLOps & Deployment:** Docker • AWS (EC2, S3, CI/CD) • Model serving • Experiment tracking (W&B) • MLFlow • ETL (Pandas)  
+**Scientific Computing:** NumPy • SciPy • Statistical modeling • Optimization algorithms • DSP
+
+---
+
+## 🚀 Current Research Focus
+
+- **Physics-Informed Neural Networks (PINNs)** for solving differential equations and inverse problems
+- **Model optimization techniques:** Pruning, quantization, distillation for edge deployment
+- **High-performance ML inference:** Exploring Rust and C++ for production ML systems
+- **Hybrid approaches:** Combining classical optimization with deep learning
+
+---
+
+## 📚 Education & Credentials
+
+**B.S.E. Electronics & Electrical Communications Engineering** • Cairo University • 2021  
+*Relevant Coursework:* Linear Algebra, Calculus (ODE/PDE), Classical & Deep ML, DSP, Statistical Methods
+
+**Professional Certifications:**
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B7Y9SHE8EPQQ) (Coursera - deeplearning.ai)
+- [NLP Specialization](https://www.coursera.org/account/accomplishments/specialization/RPSRFA88RVG3) (Coursera - deeplearning.ai)
+- [Google Certified Associate Android Developer](https://www.credential.net/8f9428f3-46bd-4b8e-9c70-e0dff7adab61) (2020-2023)
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively seeking roles in:
+- **ML Engineering:** Model development, optimization, and production deployment
+- **Applied AI Research:** Physics-Informed ML, model compression, efficient inference
+- **ML Systems Engineering:** High-performance inference engines, C++/Python integration
+- **Research Scientist positions:** PIML, hybrid physics-ML approaches, scientific ML
+
+**Best way to reach me:** [LinkedIn](https://www.linkedin.com/in/hadywalied) or [email](mailto:hadywaliedkamel@gmail.com)
+
+---
+
+## :fire: GitHub Activity
+
 <div id="badges" align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=hadywalied&theme=transparent&hide_border=true&border_radius=7.5&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
@@ -76,10 +125,3 @@
   [![Top Langs](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true&hide=javascript,css,html)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true))
   
 </div>
-
-## :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Porting micrograd to C++: Step One of Getting My Hands Dirty Again](https://dev.to/hadywalied/porting-micrograd-to-c-step-one-of-getting-my-hands-dirty-again-1c7a)
-- [Announcing Zakker for Visual Studio Code](https://dev.to/hadywalied/announcing-zakker-for-visual-studio-code-25g2)
-<!-- BLOG-POST-LIST:END -->
