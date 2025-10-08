@@ -66,8 +66,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 1: The Basic Pipeline&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-1-the-basic-pipeline-17b0)
 - [Porting micrograd to C++: Step One of Getting My Hands Dirty Again](https://dev.to/hadywalied/porting-micrograd-to-c-step-one-of-getting-my-hands-dirty-again-1c7a)
-- [Announcing Zakker for Visual Studio Code](https://dev.to/hadywalied/announcing-zakker-for-visual-studio-code-25g2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
