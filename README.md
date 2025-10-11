@@ -66,8 +66,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [From Documents to Dialogue: A step-by-step RAG Journey](https://dev.to/hadywalied/from-documents-to-dialogue-a-step-by-step-rag-journey-4ick)
 - [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 3: Dockerization and Flexible Configuration&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-3-dockerization-and-flexible-configuration-33kb)
-- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 2: Building a Web API&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-2-building-a-web-api-332a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
