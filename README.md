@@ -66,8 +66,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Modern RAG Application with Asyncio and Chainlit](https://dev.to/hadywalied/building-a-simple-modern-rag-application-with-asyncio-and-chainlit-5bi4)
 - [From Documents to Dialogue: A step-by-step RAG Journey](https://dev.to/hadywalied/from-documents-to-dialogue-a-step-by-step-rag-journey-4ick)
-- [Building a RAG from Scratch: A Beginner&#39;s Guide &lpar;Part 3: Dockerization and Flexible Configuration&rpar;](https://dev.to/hadywalied/building-a-rag-from-scratch-a-beginners-guide-part-3-dockerization-and-flexible-configuration-33kb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
