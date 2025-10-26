@@ -66,8 +66,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
 - [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
-- [Building a Simple Modern RAG Application with Asyncio and Chainlit](https://dev.to/hadywalied/building-a-simple-modern-rag-application-with-asyncio-and-chainlit-5bi4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
