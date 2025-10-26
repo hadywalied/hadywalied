@@ -5,7 +5,7 @@
 
 ### **Software Engineer**
 
-I build **production-grade intelligent systems** that combine numerical optimization with domain physics, developing models that are both data-efficient and physically consistent. additionally My work spans performance optimization, robust modeling, inference acceleration, and deploying AI solutions in resource-constrained environments.
+I build **production-grade intelligent systems** that combine numerical optimization with domain physics, developing models that are both data-efficient and physically consistent. Additionally, my work spans performance optimization, robust modeling, inference acceleration, and deploying AI solutions in resource-constrained environments.
 
 
 📍 Cairo, Egypt | 📧 [hadywaliedkamel@gmail.com](mailto:hadywaliedkamel@gmail.com)
@@ -29,6 +29,17 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 
 ## 🎯 Featured Work
 
+### [AgentHelm](https://github.com/hadywalied/agenthelm) • [Docs](https://hadywalied.github.io/agenthelm/) • [PyPI](https://pypi.org/project/agenthelm/)
+**The Problem:** AI agents fail in production with opaque errors, no rollback mechanisms, and zero audit trails—making them too risky for mission-critical applications.
+
+**The Solution:** Production-grade orchestration framework providing automatic execution tracing, human-in-the-loop approvals, transactional rollbacks, and automatic retries. Built to bring distributed systems reliability principles to AI agents.
+
+**Impact:** Open-source framework enabling teams to deploy agents with the same confidence as microservices • Applying transaction semantics and observability patterns to agentic workflows
+
+**Stack:** Python, FastAPI, Pydantic, OpenTelemetry patterns, Mistral AI integration
+
+---
+
 ### [NLP Model Compression Research](https://drive.google.com/file/d/1BmZrDSEMEnyDMIPUmLSBv82FFEDoOjwe/view) • [Code](https://github.com/hadywalied/DistillPegasus)
 **The Problem:** Large transformer models are prohibitively expensive for deployment in production environments with latency and resource constraints.
 
@@ -43,10 +54,9 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ### [The Analog Designers' Toolbox](https://adt.master-micro.com/)
 **The Problem:** Traditional EDA optimization approaches ignore underlying physical constraints, leading to unrealistic solutions and poor generalization.
 
-**The Solution:** Hybrid optimization system combining  gm/ID methodology-based methods with physics-informed constraints. Built custom computational engine leveraging NumPy/Numba/Sympy for performance-critical operations and integrated semiconductor-specific physical models.
+**The Solution:** Hybrid optimization system combining gm/ID methodology-based methods with physics-informed constraints. Built custom computational engine leveraging NumPy/Numba/Sympy for performance-critical operations and integrated semiconductor-specific physical models.
 
-
-**Impact:** **multiple folds reduction in solution iteration time** • Deployed to production serving industrial applications
+**Impact:** **Multiple folds reduction in solution iteration time** • Deployed to production serving industrial applications
 
 **Stack:** Python, C++, NumPy, Numba, Optimization Algorithms, AWS
 
@@ -67,7 +77,7 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
-- [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
+- [Why Most AI Agents Will Fail: The Orchestration Problem Nobody's Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -75,6 +85,7 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## 🛠️ Technical Stack
 
 **ML/AI Core:** PyTorch (Lightning) • TensorFlow • scikit-learn • Model Compression • Knowledge Distillation  
+**AI Agents & Orchestration:** LangChain • Agent frameworks • LLM integration • Production deployment  
 **Performance Engineering:** C++ • Rust • Python optimization • Numba • CUDA basics • Memory profiling  
 **MLOps & Deployment:** Docker • AWS (EC2, S3, CI/CD) • Model serving • Experiment tracking (W&B) • MLFlow • ETL (Pandas)  
 **Scientific Computing:** NumPy • SciPy • Statistical modeling • Optimization algorithms • DSP
@@ -83,6 +94,7 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 
 ## 🚀 Current Research Focus
 
+- **Production AI Agent Systems:** Orchestration, observability, and reliability patterns for agentic workflows
 - **Physics-Informed Neural Networks (PINNs)** for solving differential equations and inverse problems
 - **Model optimization techniques:** Pruning, quantization, distillation for edge deployment
 - **High-performance ML inference:** Exploring Rust and C++ for production ML systems
@@ -106,6 +118,7 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 
 I'm actively seeking roles in:
 - **ML Engineering:** Model development, optimization, and production deployment
+- **AI Agent Systems:** Production orchestration, reliability engineering, and agent infrastructure
 - **Applied AI Research:** Physics-Informed ML, model compression, efficient inference
 - **ML Systems Engineering:** High-performance inference engines, C++/Python integration
 - **Research Scientist positions:** PIML, hybrid physics-ML approaches, scientific ML
