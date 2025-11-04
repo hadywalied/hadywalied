@@ -76,8 +76,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AgentHelm v0.2.0: Enhanced Observability and Developer Experience](https://dev.to/hadywalied/announcing-agenthelm-v020-enhanced-observability-and-developer-experience-4ff5)
 - [Building a Production-Ready Refund Agent That Won&#39;t Break Your Business](https://dev.to/hadywalied/building-a-production-ready-refund-agent-that-wont-break-your-business-19mm)
-- [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
