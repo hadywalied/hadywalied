@@ -76,8 +76,8 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
 - [Why Your AI Agent Needs a Ctrl+Z &lpar;And How I Built It&rpar;](https://dev.to/hadywalied/why-your-ai-agent-needs-a-ctrlz-and-how-i-built-it-ok1)
-- [Announcing AgentHelm v0.2.0: Enhanced Observability and Developer Experience](https://dev.to/hadywalied/announcing-agenthelm-v020-enhanced-observability-and-developer-experience-4ff5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
