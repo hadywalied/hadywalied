@@ -133,8 +133,8 @@ I'm actively seeking roles in:
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=hadywalied&theme=transparent&hide_border=true&border_radius=7.5&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-  [![Stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/?username=hadywalied&hide=stars&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]([[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied](https://github-readme-stats-seven-sandy-23.vercel.app/api/?username=hadywalied&hide=stars&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)))
-  
-  [![Top Langs](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true&hide=javascript,css,html)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true))
-  
+<!--  [![Stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/?username=hadywalied&hide=stars&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]([[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied](https://github-readme-stats-seven-sandy-23.vercel.app/api/?username=hadywalied&hide=stars&show_icons=true&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)))
+-->
+  <!--[![Top Langs](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true&hide=javascript,css,html)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-seven-sandy-23.vercel.app/api/top-langs/?username=hadywalied&theme=transparent&hide_border=true))
+  -->
 </div>
