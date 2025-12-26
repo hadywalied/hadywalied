@@ -76,6 +76,7 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 ## :writing_hand: Technical Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise AI Agents: Traceability, Atomicity, and Memory Persistence with AgentHelm](https://dev.to/hadywalied/enterprise-ai-agents-traceability-atomicity-and-memory-persistence-with-agenthelm-417i)
 - [Announcing AgentHelm v0.3.0: Production-Ready AI Agent Orchestration](https://dev.to/hadywalied/announcing-agenthelm-v030-production-ready-ai-agent-orchestration-5alg)
 - [From 40% to 100% SQL Generation Accuracy: Why Local AI Needs Self-Correction, Not Perfect Prompts](https://dev.to/hadywalied/from-40-to-100-sql-generation-accuracy-why-local-ai-needs-self-correction-not-perfect-prompts-283j)
 - [The Production AI Agent Checklist](https://dev.to/hadywalied/the-production-ai-agent-checklist-30a2)
@@ -85,7 +86,6 @@ I build **production-grade intelligent systems** that combine numerical optimiza
 - [Introducing AgentHelm: Production-Ready Orchestration for AI Agents](https://dev.to/hadywalied/introducing-agenthelm-production-ready-orchestration-for-ai-agents-2gb1)
 - [Why Most AI Agents Will Fail: The Orchestration Problem Nobody&#39;s Solving](https://dev.to/hadywalied/why-most-ai-agents-will-fail-the-orchestration-problem-nobodys-solving-1d00)
 - [Building a Simple Modern RAG Application with Asyncio and Chainlit](https://dev.to/hadywalied/building-a-simple-modern-rag-application-with-asyncio-and-chainlit-5bi4)
-- [From Documents to Dialogue: A step-by-step RAG Journey](https://dev.to/hadywalied/from-documents-to-dialogue-a-step-by-step-rag-journey-4ick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
